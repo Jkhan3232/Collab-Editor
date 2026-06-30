@@ -1,4 +1,4 @@
-# Collaborative Document Editor MVP
+# Collaborative Document Editor
 
 ## Overview
 
