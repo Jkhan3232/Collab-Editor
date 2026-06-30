@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API_BASE_URL =
   import.meta.env.VITE_API_URL ||
-  "https://naomedical-ai-native-full-stack-dev-ten.vercel.app";
+  "https://naomedical-ai-native-full-stack-dev.vercel.app";
 
 const apiClient = axios.create({
   baseURL: `${API_BASE_URL}/api`,
